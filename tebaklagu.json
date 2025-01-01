@@ -126,7 +126,7 @@
     },
     {
         "link_song": "./src/game/Audios/downloads_Re_ZERO___Starting_Life_in_Another_World_Opening_1___Redo_mp3_trimmed.mp3",
-        "jawaban": "Re_ZERO Starting Life in Another World",
+        "jawaban": "Re ZERO Starting Life in Another World",
         "artist": "Ghostly"
     },
     {
@@ -147,6 +147,271 @@
     {
         "link_song": "./src/game/Audios/downloads_Mob_Psycho_100_II_Opening___99_9_by_Mob_Choir_mp3_trimmed.mp3",
         "jawaban": "Mob Psycho 100",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Akame_ga_Kill__Opening_2___Liar_Mask_by_Rika_Mayama_mp3_trimmed.mp3",
+        "jawaban": "Akame Ga Kill",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Naruto_Shippuden_Opening_13___Not_Even_Sudden_Rain_Can_Defeat_Me_mp3_trimmed.mp3",
+        "jawaban": "Naruto Shippuden",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_No_Game_No_Life_Opening___This_Game_by_Konomi_Suzuki_mp3_trimmed.mp3",
+        "jawaban": "No Game No Life",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_JUJUTSU_KAISEN_Opening_2___Vivid_Vice_mp3_trimmed.mp3",
+        "jawaban": "Jujutsu Kaisen",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_My_Hero_Academia_Season_4_Opening_1___Polaris_mp3_trimmed.mp3",
+        "jawaban": "My hero academia",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_My_Hero_Academia_Opening_4___ODD_FUTURE_by_UVERworld_mp3_trimmed.mp3",
+        "jawaban": "My hero academia",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_The_God_of_High_School_Opening___Contradiction__feat__Tyler_Carter__by_KSUKE_mp3_trimmed.mp3",
+        "jawaban": "The God of High School",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Overlord_III_Opening___VORACITY_mp3_trimmed.mp3",
+        "jawaban": "Overlord III",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Noragami_Aragoto_Opening___Ky_ran_Hey_Kids___by_Oral_Cigarettes_mp3_trimmed.mp3",
+        "jawaban": "Noragami Aragoto",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_My_Hero_Academia_Opening_1___The_Day_mp3_trimmed.mp3",
+        "jawaban": "My hero academia",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_My_Hero_Academia_Opening_1___The_Day_mp3_trimmed.mp3",
+        "jawaban": "My hero academia",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_DARLING_in_the_FRANXX_Opening_1___KISS_OF_DEATH_mp3_trimmed.mp3",
+        "jawaban": "DARLING in the FRANXX",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Free__Iwatobi_Swim_Club_Ending___SPLASH_FREE_mp3_trimmed.mp3",
+        "jawaban": "Free Iwatobi Swim Club",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Re_ZERO__Starting_Life_in_Another_World__Opening_2___Paradisus_Paradoxum_mp3_trimmed.mp3",
+        "jawaban": "Re ZERO Starting Life in Another World",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Noragami_Opening___Goya_wa_Machiawase_mp3_trimmed.mp3",
+        "jawaban": "noragami",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_How_Heavy_Are_the_Dumbbells_You_Lift__Opening___Onegai_Muscle_mp3_trimmed.mp3",
+        "jawaban": "How Heavy Are the Dumbbells You Lift",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Naruto_Shippuden_Opening_3___Blue_Bird_mp3_trimmed.mp3",
+        "jawaban": "Naruto Shippuden",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Blood_Blockade_Battlefront_Ending___Sugar_Song_to_Bitter_Step_mp3_trimmed.mp3",
+        "jawaban": "Blood Blockade Battlefront",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Black_Clover_Opening_10___Black_Catcher_mp3_trimmed.mp3",
+        "jawaban": "Black Clover",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_My_Hero_Academia_Season_2_Opening_2___Sora_ni_Utaeba_mp3_trimmed.mp3",
+        "jawaban": "My hero academia",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Blend_S_Opening___Bon_App_tit_S_by_Blend_A_mp3_trimmed.mp3",
+        "jawaban": "Blend S",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Naruto_Shippuden_Ending_15___U_Can_Do_It_mp3_trimmed.mp3",
+        "jawaban": "Naruto Shippuden",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Naruto_Shippuden_Opening_6___Sign_by_FLOW_mp3_trimmed.mp3",
+        "jawaban": "Naruto Shippuden",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Nichijou_My_Ordinary_Life_Opening___Hyadain_no_Kakakata_Kataomoi___C_mp3_trimmed.mp3",
+        "jawaban": "Nichijou My Ordinary Life",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Fairy_Tail_Opening_15___Masayume_Chasing_mp3_trimmed.mp3",
+        "jawaban": "Fairy Tail",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Fire_Force_Season_2_Opening_1___SPARK_AGAIN_by_Aimer_mp3_trimmed.mp3",
+        "jawaban": "Fire Force",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Miss_Kobayashi_s_Dragon_Maid_S_Opening___Ai_no_Supreme__mp3_trimmed.mp3",
+        "jawaban": "Miss Kobayashi s Dragon Maid S",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Samurai_Champloo_Opening___Battlecry_mp3_trimmed.mp3",
+        "jawaban": "Samurai Champloo",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Hell_s_Paradise___Opening___Work_mp3_trimmed.mp3",
+        "jawaban": "Hells Paradise",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Cowboy_Bebop___Opening___Tank__mp3_trimmed.mp3",
+        "jawaban": "Cowboy Bebop",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Dr__STONE_Season_2___Opening___Rakuen_mp3_trimmed.mp3",
+        "jawaban": "Dr. STONE",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Fire_Force___Ending_1___Veil_mp3_trimmed.mp3",
+        "jawaban": "Fire Force",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Haikyu___Season_2___Opening_2___Fly_High___mp3_trimmed.mp3",
+        "jawaban": "Haikyuu!!",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_The_Quintessential_Quintuplets___Opening___Gotoubun_no_Kimochi_mp3_trimmed.mp3",
+        "jawaban": "The Quintessential Quintuplets",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_KONOSUBA__God_s_blessing_on_this_wonderful_world____Opening___Fantastic_Dreamer_mp3_trimmed.mp3",
+        "jawaban": "KONOSUBA gods blessing on this wonderful world",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Re_ZERO__Starting_Life_in_Another_World__Season_2___Opening_1___Realize_mp3_trimmed.mp3",
+        "jawaban": "Re ZERO Starting Life in Another World",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Black_Butler__Book_of_Circus___Opening___Enamel_mp3_trimmed.mp3",
+        "jawaban": "Black Butler Book of Circus",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Tower_of_God___Opening___TOP_mp3_trimmed.mp3",
+        "jawaban": "Tower of God",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_GTO_the_Animation___Opening_1___Driver_s_High_mp3_trimmed.mp3",
+        "jawaban": "GTO the Animation",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_KONOSUBA__God_s_blessing_on_this_wonderful_world__2___Opening___Tomorrow_mp3_trimmed.mp3",
+        "jawaban": "KONOSUBA gods blessing on this wonderful world",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Fire_Force___Opening_2___MAYDAY_mp3_trimmed.mp3",
+        "jawaban": "Fire Force",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Domestic_Girlfriend___Opening___Kawaki_wo_Ameku_mp3_trimmed.mp3",
+        "jawaban": "Domestic Girlfriend",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Miss_Kobayashi_s_Dragon_Maid___Opening___Blue_Sky_Rhapsody_mp3_trimmed.mp3",
+        "jawaban": "Miss Kobayashis Dragon maid",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Fairy_Tail_Final_Season___Opening_2___DOWN_BY_LAW_mp3_trimmed.mp3",
+        "jawaban": "Fairy Tail",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Boruto__Naruto_Next_Generations___Opening_8___BAKU_mp3_trimmed.mp3",
+        "jawaban": "Boruto Naruto Next Generations",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Naruto_Shippuden___Opening_10___Newsong_mp3_trimmed.mp3",
+        "jawaban": "Naruto Shippuden",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Ranking_of_Kings___Opening_2___Naked_Hero_mp3_trimmed.mp3",
+        "jawaban": "Ranking of Kings",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_My_Hero_Academia___Opening_5___Make_My_Story_mp3_trimmed.mp3",
+        "jawaban": "My hero academia",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Berserk___Opening_1___Inferno_mp3_trimmed.mp3",
+        "jawaban": "Berserk",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Boruto__Naruto_Next_Generations_Opening_7___Hajimatteiku_Takamatteiku_mp3_trimmed.mp3",
+        "jawaban": "Boruto Naruto Next Generations",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Black_Clover___Opening_4___Guess_Who_Is_Back_mp3_trimmed.mp3",
+        "jawaban": "Black Clover",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Blood_Blockade_Battlefront___Opening___Hello__World__mp3_trimmed.mp3",
+        "jawaban": "Blood Blockade Battlefront",
+        "artist": "Ghostly"
+    },
+    {
+        "link_song": "./src/game/Audios/downloads_Naruto_Shippuden___Opening_2___Distance_mp3_trimmed.mp3",
+        "jawaban": "Naruto Shippuden",
         "artist": "Ghostly"
     }
 ]
